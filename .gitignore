@@ -1,0 +1,4 @@
+# Ignoring the following files
+
+# Data
+*.csv
