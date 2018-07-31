@@ -83,7 +83,7 @@ Because the best results came from the RandomForestClassifier, I also run a grid
 - Minimum sample split: [3, 4]
 - Number of estimators: [10, 100, 200]
 
-This took a long time to run on my laptop.
+The model achieved above 0.75% accuracy with 0.8293 AUC.
 
 ## Final validation
 After finding the parameters with the best results, I also run a Repeated Stratified K-Fold validation.
